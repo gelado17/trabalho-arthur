@@ -1,7 +1,7 @@
 # Site acessível sobre curso de barbeiro
 
 # Sobre
-Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+Como se tornar um barbeiro de alto nível com um preço que cabe no seu bolso!
 ## Recursos de acessibilidade
 - Atributos aria
 - alt
