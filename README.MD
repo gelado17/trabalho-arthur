@@ -8,8 +8,6 @@ Como se tornar um barbeiro de alto nível com um preço que cabe no seu bolso!
 - tab-index
 - menu de acessibilidade
 ## Tecnologias utilizadas
-- Bootstrap
-- ScrollRevealjs
 - HTML
 - CSS
 - JS
